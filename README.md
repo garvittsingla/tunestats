@@ -4,7 +4,7 @@
 
 ## 🚀 Features
 
-- **Spotify Authentication**: Securely log in with your Spotify account.
+- **Spotify Authentication**: Securely log in with your Spotify account.i from github
 - **Sharable User Profiles**: Generate personalized, shareable profiles for showcasing your Spotify activity.
 - **Friend Comparable Charts**: Compare your Spotify stats with friends in personalized charts.
 - **Add Friends**: Build a network of friends and explore their music preferences.
