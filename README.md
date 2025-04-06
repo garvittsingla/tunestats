@@ -1,5 +1,5 @@
 # TuneStats 🎵
-I CONTRIBUTED
+I CONTRIBUTED and this is a mergeconflict
 **TuneStats** is a web application that allows users to track their Spotify stats, share their profiles, and compare their music taste with friends.
 
 ## 🚀 Features
